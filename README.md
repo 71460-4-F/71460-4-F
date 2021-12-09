@@ -7,8 +7,7 @@
   </p>
   </p>
   </html>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/71460-4-F)](https://badges.pufler.dev)
+
 
 
 
