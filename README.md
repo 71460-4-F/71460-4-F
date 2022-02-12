@@ -7,7 +7,7 @@
 
   </p>
   </p>
-  <h6  align="center"><a href="https://71460-4-f.github.io/1/"> Next 👾</a></h6>
+  <h4  align="center"><a href="https://71460-4-f.github.io/1/"> Play 👾</a></h4>
   </html>
 <!--
 **71460-4-F/71460-4-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
