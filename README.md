@@ -9,7 +9,7 @@
   </p>
  <!-- <h3  align="center"><a href="https://71460-4-f.github.io/1/"> Play 👾</a></h3> -->
   
-   <p align="center"><a href="https://github.com/71460-4-F?tab=repositories"><img alingn="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71460-4-F&theme=dark&layout=compact" /></a>
+   <p align="center"><a href="https://github.com/71460-4-F?tab=repositories"><img alingn="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71460-4-F&theme=chartreuse-dark&layout=compact" /></a>
   </html>
 <!--
 **71460-4-F/71460-4-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
