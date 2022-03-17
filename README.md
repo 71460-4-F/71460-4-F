@@ -1,13 +1,15 @@
 
 <html  align="center" style="position: relative;">
     <h1 align="center">Hi there 🤔</h1>
-    <p align="center">    <img alingn="center" src="https://profile-counter.glitch.me/71460-4-F/count.svg" />
-    <p align="center"><img alingn="center" src="https://user-images.githubusercontent.com/38273600/146312252-4066343d-ceee-41f1-8d2a-6d39b77d15b1.gif" /> 
+    <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/71460-4-F/count.svg" />
+    <p align="center"><a href="https://71460-4-f.github.io/1/"><img alingn="center" src="https://user-images.githubusercontent.com/38273600/146312252-4066343d-ceee-41f1-8d2a-6d39b77d15b1.gif" /> </a>
    <!--  <p align="center"><img alingn="center" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif" /> -->
 
   </p>
   </p>
-  <h4  align="center"><a href="https://71460-4-f.github.io/1/"> Play 👾</a></h4>
+ <!-- <h3  align="center"><a href="https://71460-4-f.github.io/1/"> Play 👾</a></h3> -->
+  
+   <p align="center"><a href="https://github.com/71460-4-F?tab=repositories"><img alingn="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71460-4-F&theme=dark&layout=compact" /></a>
   </html>
 <!--
 **71460-4-F/71460-4-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
