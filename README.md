@@ -7,7 +7,7 @@
   </p>
   </p>
   
-  <p align="center"><a href="https://github.com/71460-4-F?tab=repositories"><img alingn="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71460-4-F&theme=chartreuse-dark&layout=compact&langs_count=100" /></a>
+  <p align="center"><a href="https://github.com/71460-4-F?tab=repositories"><img alingn="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=71460-4-F&theme=chartreuse-dark&layout=compact&langs_count=50" /></a>
  <h3  align="center"><a href="https://71460-4-f.github.io/1/"> Play 👾</a></h3> 
      <p align="center"><a href="https://71460-4-f.github.io/1/"><img alingn="center" src="https://user-images.githubusercontent.com/38273600/146312252-4066343d-ceee-41f1-8d2a-6d39b77d15b1.gif" /> </a>
       
